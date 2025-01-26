@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Nil&#x27;in Dijital Bahçesi",
     "description": "",
-    "home_page_url": "https://github.com/nilsya/gh-pages.git.com",
-    "feed_url": "https://github.com/nilsya/gh-pages.git.com/feed.json",
+    "home_page_url": "https://nilsya.github.io/gh-pages",
+    "feed_url": "https://nilsya.github.io/gh-pages/feed.json",
     "user_comment": "",
     "author": {
         "name": "Nil Yalçınkaya"
     },
     "items": [
         {
-            "id": "https://github.com/nilsya/gh-pages.git.com/deneme.html",
-            "url": "https://github.com/nilsya/gh-pages.git.com/deneme.html",
+            "id": "https://nilsya.github.io/gh-pages/deneme.html",
+            "url": "https://nilsya.github.io/gh-pages/deneme.html",
             "title": "deneme",
             "summary": "denemeeee",
             "content_html": "\n  <p>\n    denemeeee\n  </p>",
