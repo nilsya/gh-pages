@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Nil&#x27;in Dijital Bahçesi</title>
-    <link href="https://nilsya.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://nilsya.github.io/gh-pages" />
+    <link href="https://www.nilindijitalbahcesi.com/feed.xml" rel="self" />
+    <link href="https://www.nilindijitalbahcesi.com" />
     <updated>2025-01-26T16:43:06+01:00</updated>
     <author>
         <name>Nil Yalçınkaya</name>
     </author>
-    <id>https://nilsya.github.io/gh-pages</id>
+    <id>https://www.nilindijitalbahcesi.com</id>
 
     <entry>
         <title>deneme</title>
         <author>
             <name>Nil Yalçınkaya</name>
         </author>
-        <link href="https://nilsya.github.io/gh-pages/deneme.html"/>
-        <id>https://nilsya.github.io/gh-pages/deneme.html</id>
+        <link href="https://www.nilindijitalbahcesi.com/deneme.html"/>
+        <id>https://www.nilindijitalbahcesi.com/deneme.html</id>
 
         <updated>2025-01-26T16:43:06+01:00</updated>
             <summary>
