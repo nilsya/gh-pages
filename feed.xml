@@ -3,7 +3,7 @@
     <title>Nil&#x27;in Dijital Bahçesi</title>
     <link href="https://www.nilindijitalbahcesi.com/feed.xml" rel="self" />
     <link href="https://www.nilindijitalbahcesi.com" />
-    <updated>2025-01-26T16:43:06+01:00</updated>
+    <updated>2025-01-27T09:10:23+01:00</updated>
     <author>
         <name>Nil Yalçınkaya</name>
     </author>
@@ -18,16 +18,12 @@
         <id>https://www.nilindijitalbahcesi.com/deneme.html</id>
 
         <updated>2025-01-26T16:43:06+01:00</updated>
-            <summary>
-                <![CDATA[
-                    denemeeee
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    denemeeee
+    
   </p>
             ]]>
         </content>
