@@ -3,7 +3,7 @@
     <title>Nil&#x27;in Dijital Bahçesi</title>
     <link href="https://www.nilindijitalbahcesi.com/feed.xml" rel="self" />
     <link href="https://www.nilindijitalbahcesi.com" />
-    <updated>2025-04-10T11:01:01+02:00</updated>
+    <updated>2025-04-10T11:07:14+02:00</updated>
     <author>
         <name>Nil Yalçınkaya</name>
     </author>
@@ -458,17 +458,20 @@
         </author>
         <link href="https://www.nilindijitalbahcesi.com/bir-kendini-ifade-bicimi-olarak-indie-web.html"/>
         <id>https://www.nilindijitalbahcesi.com/bir-kendini-ifade-bicimi-olarak-indie-web.html</id>
+        <media:content url="https://www.nilindijitalbahcesi.com/media/posts/9/bloggiris.png" medium="image" />
             <category term="Yavaş Pazarlama"/>
             <category term="Indie Web"/>
 
         <updated>2025-03-17T22:38:18+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://www.nilindijitalbahcesi.com/media/posts/9/bloggiris.png" alt="" />
                     Teknoloji, internet, web tasarımı deyince insanın aklına en son gelen şeylerden biri "sanatsal ve duygusal olarak kendini ifade etme" konusu&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://www.nilindijitalbahcesi.com/media/posts/9/bloggiris.png" class="type:primaryImage" alt="" /></p>
                 <p>Teknoloji, internet, web tasarımı deyince insanın aklına en son gelen şeylerden biri "sanatsal ve duygusal olarak kendini ifade etme" konusu geliyor, biliyorum. Sanattan, duygulardan, kendini ifade etmekten, yaratıcılıktan bahsedecek olursanız pek çok kişinin gözünün önünde canlanacak şey tuvalin başında yağlı boya yapan Fransız şapkalı (bu şapkanın adını bilen varsa yazsın) bir tiptir. Diğer bir ihtimalle, kırlarda koşup yorulduktan sonra bir ağacın altına oturup şiir yazan, Victorian dönemi tarzında elbisesiyle romantik bir genç kız akla gelebilir. </p>
 <p>Diğer yandan, 2025'te bu yazıyı kaleme alıyorum ve insanların kendilerini sanatsal olarak ifade etme şekillerinde inanılmaz bir aşamaya gelmiş durumdayız. Şartlar değişti. Aslında biraz fazla hızlı değişti ve esas hedefi kaçırdık galiba... İnternetin ilk zamanlarında insanlar interneti, gerçekten kendilerini özgürce yansıtabildikleri bomboş bir alan olarak kullanıyorlardı. Zamanla internet hızlandı, sosyal medya hayatımıza girdi, ve işin tadı kaçmaya başladı. Baktılar ki bu kadar kişisel veri daha zekice kullanılabilir, o zaman neden bunu otomatize etmeyelim dedi teknoloji devleri, ve ortaya algoritma denen şey çıktı. O noktadan sonra da işte biliyorsunuz hikayeyi, yapay zeka bizim o çok sevgili kendini ifade alanlarımıza izinsiz girip, diğer bir deyişle günlüklerimizi karıştırıp sırlarımızı çaldı. Bu sırlarla ne mi yaptı? Bize özel reklamlar göstermenin ötesine geçti ve bizi taklit etmeye başladı!</p>
 <p>Bir söylentiye göre günümüz interneti ölü bir internet, yani gerçek kullanıcılar eskisi kadar içerik üretmiyor (Tiktok'ta göbek atanları saymazsak). Olan içeriklerin büyük çoğunluğu (en azından metinsel olanların) maalesef robotlar tarafından yazılıyor. Artık görseller de yapay zeka oldu, hatta videolar da (korkunç olmakla birlikte) görüntü kirliliğindeki yerini aldı. Özetle arkadaşlar, partinin tadı kaçtı...</p>
